@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Blogster</string>
+    <string name="pass_hint">Password</string>
+    <string name="email_hint">Your Email</string>
+    <string name="login_btn_text">Login To Account</string>
+    <string name="login_reg_btn_text">Need a new Account?</string>
+    <string name="regRegisterBtn">Create Account</string>
+    <string name="regLoginBtn">Already have an account?</string>
+    <string name="confirmPassHint">Confirm Password</string>
+    <string name="setup_btn">Save Account Settings</string>
+    <string name="new_post_desc">Add Description...  (Max 128 Characters)</string>
+    <string name="bottom_nav_home">Home</string>
+    <string name="bottom_nav_notif">Notification</string>
+    <string name="botton_nav_account">Account</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
