@@ -90,7 +90,6 @@ public class BlogRecyclerAdapter extends RecyclerView.Adapter<BlogRecyclerAdapte
                     public void onSuccess(Void aVoid) {
 
                         blogList.remove(position);
-                        notifyDataSetChanged();
                     }
                 });
             }
