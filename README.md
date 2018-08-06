@@ -1,5 +1,5 @@
 # Blogster
-<img src="https://user-images.githubusercontent.com/27882376/43730637-9eefea7a-99c9-11e8-9b6d-161448259af9.png" width="200" height="400" />
+<img src="https://user-images.githubusercontent.com/27882376/43730637-9eefea7a-99c9-11e8-9b6d-161448259af9.png" width="200" height="200" />
 
 ## Login and Register
 <img src="https://user-images.githubusercontent.com/27882376/43729728-cd838fe8-99c6-11e8-9039-1937b767a47a.png" width="200" height="400" /> <img src="https://user-images.githubusercontent.com/27882376/43729836-226211ce-99c7-11e8-899e-637946d41607.png" width="200" height="400" />
