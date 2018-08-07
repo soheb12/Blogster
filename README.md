@@ -1,4 +1,5 @@
 # Blogster
+### It is a blog app to post images .
 <img src="https://user-images.githubusercontent.com/27882376/43730637-9eefea7a-99c9-11e8-9b6d-161448259af9.png" width="200" height="200" />
 
 ## Login and Register
