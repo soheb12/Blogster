@@ -136,7 +136,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onStart() {
         super.onStart();
-        bottomNavigationView.setVisibility(View.GONE);
+       // bottomNavigationView.setVisibility(View.GONE);
 
         FirebaseUser user = FirebaseAuth.getInstance().getCurrentUser();
 
